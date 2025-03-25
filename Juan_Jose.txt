@@ -1,3 +1,4 @@
 Juan Jose Vasquez Solis
 202415873 
 Ingeniera electronica 
+Metodologia de desarrollo de software
